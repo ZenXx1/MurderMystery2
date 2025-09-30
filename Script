@@ -1,2 +1,1 @@
-debuging = true
-loadstring(game:HttpGet("https://pastefy.app/fllZUrQ2/raw?part=Script",true))()
+loadstring(game:HttpGet("https://paste.debian.net/plainh/9a371fec/", true))()
